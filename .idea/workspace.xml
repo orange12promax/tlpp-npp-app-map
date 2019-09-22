@@ -28,8 +28,8 @@
       <file leaf-file-name="react-native-baidu-map.podspec" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ios/react-native-baidu-map.podspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="478">
+              <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -120,12 +120,12 @@
       <updated>1569131867128</updated>
       <workItem from="1569131868530" duration="9000" />
       <workItem from="1569133003199" duration="152000" />
-      <workItem from="1569134091375" duration="21000" />
+      <workItem from="1569134091375" duration="65000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182000" />
+    <option name="totallyTimeSpent" value="226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="84" width="1262" height="870" extended-state="0" />
@@ -188,8 +188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ios/react-native-baidu-map.podspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="478">
+          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
         </state>
       </provider>
     </entry>
