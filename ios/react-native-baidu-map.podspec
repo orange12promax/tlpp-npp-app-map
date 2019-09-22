@@ -41,14 +41,15 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/lovebing/react-native-baidu-map.git", :tag => "#{s.version}" }
+  #s.source       = { :git => "https://github.com/lovebing/react-native-baidu-map.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://e.coding.net/tlpp/npp-map.git", :tag => "#{s.version}" }
 
   s.source_files  = "ios/RCTBaiduMap/**/*.{h,m}"
   s.exclude_files = ""
 
   # s.public_header_files = "**/*.h"
 
-  s.frameworks = "CoreLocation", "QuartzCore", "OpenGLES", "SystemConfiguration", "CoreGraphics", "Security", "CoreTelephony" 
+  s.frameworks = "CoreLocation", "QuartzCore", "OpenGLES", "SystemConfiguration", "CoreGraphics", "Security", "CoreTelephony"
 
   s.libraries = "c++", "sqlite3", "ssl", "crypto"
 
